@@ -1,0 +1,5 @@
+pygal
+Pillow
+pygame
+easygui
+cairosvg
